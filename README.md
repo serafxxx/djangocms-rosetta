@@ -21,7 +21,7 @@ This module requires a working `django-cms` installation.
 To install it two things are necessary:
 
 1. Install with pip:  
-   `pip install git+git://github.com/philippze/djangocms-rosetta.git@master`
+   `pip install djangocms-rosetta`
 2. Add `djancocms_rosetta` and `rosetta` to your `INSTALLED_APPS`.
 
 

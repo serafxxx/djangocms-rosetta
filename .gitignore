@@ -1,1 +1,5 @@
 *.pyc
+
+/build
+/dist
+/djangocms_rosetta.egg-info
