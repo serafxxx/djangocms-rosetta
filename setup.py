@@ -17,6 +17,6 @@ setup(
     
     keywords = 'Django translation rosetta',
     
-    install_requires=['django', 'django-cms', 'rosetta']
+    install_requires=['Django>=1.7', 'django-cms>=3.1', 'django-rosetta>=0.7']
     
 )
