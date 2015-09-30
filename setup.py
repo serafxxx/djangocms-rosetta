@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     
@@ -16,6 +16,8 @@ setup(
     license = 'MIT',
     
     keywords = 'Django translation rosetta',
+    
+    packages = find_packages()
     
     install_requires=['Django>=1.7', 'django-cms>=3.1', 'django-rosetta>=0.7']
     
