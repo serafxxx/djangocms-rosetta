@@ -2,6 +2,8 @@
 
 Add links to rosetta's translation interface in the Django CMS Toolbar.
 
+Code hosted [on github](https://github.com/philippze/djangocms-rosetta)
+
 
 ## Requirements
 
