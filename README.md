@@ -30,3 +30,10 @@ To install it two things are necessary:
 This module is tiny and new and published hoping it might be useful for anyone.
 
 If it doesn't work as you expect, please create an issue on github.
+
+
+## Author
+
+Philipp Zedler  
+[philipp@neue-musik.com](mailto:philipp@neue-musik.com)  
+[www.zedler.it](http://www.zedler.it)
