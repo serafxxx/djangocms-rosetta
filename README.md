@@ -1,8 +1,11 @@
 # djangocms-rosetta
 
-Add links to rosetta's translation interface in the Django CMS Toolbar.
+A little helper module for translating text.
 
-Code hosted [on github](https://github.com/philippze/djangocms-rosetta)
+Adds a menu in the Django CMS Toolbar that links to the admin of the
+translations module [django-rosetta by Marco Bonetti](https://github.com/mbi/django-rosetta).
+
+Code hosted [on github](https://github.com/philippze/djangocms-rosetta).
 
 
 ## Requirements
