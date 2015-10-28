@@ -21,7 +21,7 @@ It might also work with elder versions, but I havn't tested this (yet).
 
 This module requires a working `django-cms` installation.
 
-To install it two things are necessary:
+It will work after you perform these four steps:
 
 1. Install with pip:  
    `pip install djangocms-rosetta`
