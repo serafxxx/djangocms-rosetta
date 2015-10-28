@@ -26,6 +26,18 @@ To install it two things are necessary:
 1. Install with pip:  
    `pip install djangocms-rosetta`
 2. Add `djancocms_rosetta` and `rosetta` to your `INSTALLED_APPS`.
+3. Include the required urls in your urlconf:  
+   `url(r'^rosetta/', include('rosetta.urls'))`
+4. Create translation files for *all* languages used in your project:  
+   `python manage.py makemessages -l en`  
+   ...
+
+
+## Configuration and more info
+
+The [django-rosetta docs](http://django-rosetta.readthedocs.org)
+provide some more information about possible configurations and what
+rosetta does.
 
 
 ## Questions
